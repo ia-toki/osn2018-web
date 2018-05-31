@@ -6,8 +6,9 @@
 
 @import 'header';
 @import 'menubar';
-@import 'sidebar';
 @import 'layout-full-page';
+@import 'content-with-sidebar';
+@import 'sidebar';
 
 body {
   color: $text-color !important;

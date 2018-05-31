@@ -4,11 +4,9 @@ layout: default
 
 <div class="content-with-sidebar">
   <div class="content-with-sidebar__sidebar">
-    sidebar
+    {% include sidebar.html %}
   </div>
   <div class="content-with-sidebar__content--small">
-    content
+    {{ content }}
   </div>
 </div>
-
-{{ content }}
