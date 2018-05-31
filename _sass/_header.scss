@@ -1,0 +1,30 @@
+@import 'colors';
+
+.header {
+  background-color: $primary-color !important;
+  height: 60px;
+}
+
+.header, .header a {
+  color: white;
+}
+
+.header a:hover {
+  text-decoration: none;
+}
+
+.header__wrapper {
+  margin: 0 auto;
+  padding-top: 5px;
+  max-width: 1160px;
+}
+
+.header__logo {
+  width: 40px;
+}
+
+.header__title {
+  margin-left: 20px;
+  margin-right: 0;
+  font-size: 23px;
+}
