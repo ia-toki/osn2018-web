@@ -23,15 +23,18 @@ key: rules
 1. Pada soal bertipe *batch*:
    1. Peserta membuat sebuah program yang membaca masukan kasus uji dari **stdin** dan mencetak jawaban ke **stdout**.
    1. Program harus mengeluarkan jawaban dalam batas waktu dan memori yang dinyatakan pada soal.
+   1. Contoh soal: [Pertahanan Pekanbaru, OSN 2017](https://training.ia-toki.org/problemsets/91/problems/469/).
 
 1. Pada soal bertipe *interactive*:
    1. Peserta membuat sebuah program yang berinteraksi dengan program juri: program juri memberikan keluaran ke **stdout**, yang menjadi masukan **stdin** untuk program peserta, kemudian program peserta memberikan keluaran ke **stdout**, dan seterusnya, untuk mencapai tujuan tertentu yang dinyatakan pada soal.
    1. Program harus mengeluarkan jawaban dalam batas waktu dan memori yang dinyatakan pada soal.
+   1. Contoh soal: [Daratan dan Es, OSN 2017](https://training.ia-toki.org/problemsets/91/problems/471/).
 
 1. Pada soal bertipe *output-only*:
    1. Peserta diberikan seluruh masukan dari kasus-kasus uji soal.
    1. Peserta menjawab dengan mengirimkan beberapa **berkas keluaran** yang sudah dikompres.
    1. Peserta **tidak harus** membuat program untuk menghasilkan berkas-berkas keluaran (boleh dikerjakan secara manual).
+   1. Contoh soal: [Wisata Palembang, OSN 2016](https://training.ia-toki.org/problemsets/54/problems/259/).
 
 <br>
 
@@ -55,6 +58,7 @@ key: rules
 1. Pada penilaian kreatif:
    1. Penilaian akan diberikan relatif terhadap hasil yang diperoleh solusi juri.
    1. Rumus penilaian bervariasi untuk setiap soal, dan akan dinyatakan secara eksplisit pada soal.
+   1. Contoh soal: [Wisata Palembang, OSN 2016](https://training.ia-toki.org/problemsets/54/problems/259/).
 
 <br>
 
@@ -63,12 +67,26 @@ key: rules
 1. Nilai peserta pada suatu soal merupakan **nilai terbesar** dari seluruh pengumpulan peserta pada soal tersebut.
 1. Total nilai peserta adalah total nilai yang didapatkan pada **seluruh soal** pada **seluruh hari kompetisi**.
 1. Peserta akan diurutkan peringkat berdasarkan total nilai (semakin besar, semakin bagus).
-1. Dua peserta yang memiliki total nilai yang sama akan mendapat peringkat yang sama.
+1. Dua peserta yang memiliki total nilai yang **sama** akan mendapat peringkat yang **sama**.
 1. Waktu pengumpulan **tidak berpengaruh** sama-sekali pada peringkat peserta.
 
 <br>
 
-### E. Lain-Lain
+### E. Sistem Grading
+
+1. Sistem *grading* yang digunakan adalah [TLX](https://tlx.toki.id).
+1. Besarnya berkas *source code* yang boleh dikumpulkan untuk setiap soal maksimum **300 KB**.
+
+1. Untuk setiap kasus uji, balasan *grader* yang mungkin adalah:
+   1. **AC** (Accepted): program berhasil menyelesaikan kasus uji dalam batas waktu dan memori.
+   1. **WA** (Wrong Answer): program berhenti dalam batas waktu dan memori, namun menghasilkan keluaran yang salah.
+   1. **RTE** (Runtime Error): program *crash* atas melebihi batas memori.
+   1. **TLE** (Time Limit Exceeded): program melebihi batas waktu.
+   1. Skipped: *grading* tidak dilakukan karena sudah ada kasus uji lain dalam *test group* yang sama yang tidak mendapatkan AC.
+
+<br>
+
+### F. Lain-Lain
 
 1. Apabila terjadi hal-hal yang tidak terduga (misalnya: mati listrik, jaringan internet terputus dan lain-lain), maka panitia memiliki **hak diskresi** untuk menambah waktu kompetisi menjadi lebih lama dari 5 jam, sesuai yang diperlukan.
 
@@ -77,5 +95,5 @@ key: rules
    1. Mengakses akun peserta lain.
    1. Mengakses komputer atau jaringan lain selain yang diperbolehkan.
    1. Mencoba untuk mengakses *root* komputer.
-   1. Mencoba untuk merusak sistem grader.
+   1. Mencoba untuk merusak sistem *grader*.
    1. Mengganggu peserta lain.
