@@ -6,6 +6,10 @@ key: spec
 
 Berikut ini spesifikasi komputer setiap peserta.
 
+**Komputer**
+   - Intel i3-2100 @ 3.10 GHz
+   - 2GB RAM 
+
 **Sistem Operasi**
    - Ubuntu 16.04 
 
