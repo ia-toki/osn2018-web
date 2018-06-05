@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Peraturan OSN 2018 Informatika
+title: Peraturan Kompetisi OSN 2018 Informatika
 key: rules
 ---
 
