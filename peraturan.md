@@ -58,7 +58,11 @@ key: rules
 1. Pada penilaian kreatif:
    1. Penilaian akan diberikan relatif terhadap hasil yang diperoleh solusi juri.
    1. Rumus penilaian bervariasi untuk setiap soal, dan akan dinyatakan secara eksplisit pada soal.
-   1. Contoh soal: [Wisata Palembang, OSN 2016](https://training.ia-toki.org/problemsets/54/problems/259/).
+   
+   1. Contoh soal:
+      - *Batch*: [Membaca, OSN 2012](https://training.ia-toki.org/problemsets/45/problems/224/).
+      - *Interactive*: [Cat Rumah, OSN 2014](https://training.ia-toki.org/problemsets/39/problems/202/).
+      - *Output-only*: [Wisata Palembang, OSN 2016](https://training.ia-toki.org/problemsets/54/problems/259/).
 
 <br>
 
