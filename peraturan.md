@@ -11,7 +11,6 @@ key: rules
 1. Pada setiap hari kompetisi, terdapat **3 buah soal** yang diujikan selama **5 jam**.
 1. Setiap peserta mendapatkan jatah sebanyak **50 kali pengumpulan** untuk setiap soal.
 1. Bahasa pemrograman yang diperbolehkan adalah **C**, **C++**, dan **Pascal**.
-1. Peserta dapat mengajukan klarifikasi soal dalam **2 jam pertama** setiap hari kompetisi.
 1. Selama kompetisi, peserta hanya dapat melihat nilai diri sendiri.
 
 <br>
@@ -90,10 +89,22 @@ key: rules
 
 <br>
 
-### F. Lain-Lain
+### F. Klarifikasi
 
+1. Peserta dapat mengajukan klarifikasi soal dalam **2 jam pertama** setiap hari kompetisi.
+1. Setiap klarifikasi hanya akan dijawab dengan salah satu dari balasan berikut:
+   - Ya
+   - Tidak
+   - Baca soal lebih teliti
+   - Tidak ada komentar
+   - Baca pengumuman
+
+<br>
+
+### G. Lain-Lain
+
+1. Peserta tidak boleh menggunakan barang-barang pribadi ke dalam tempat lomba, **kecuali** maskot kecil dan alat-alat tulis.
 1. Apabila terjadi hal-hal yang tidak terduga (misalnya: mati listrik, jaringan internet terputus dan lain-lain), maka panitia memiliki **hak diskresi** untuk menambah waktu kompetisi menjadi lebih lama dari 5 jam, sesuai yang diperlukan.
-
 1. Peserta yang melakukan kecurangan akan mendapatkan **sanksi** berupa nilai 0 atau bahkan didiskualifikasi. Kecurangan misalnya, namun tidak terbatas, pada:
    1. Melakukan komunikasi dengan peserta lain atau juri selama kompetisi berlangsung di luar sistem yang telah disediakan.
    1. Mengakses akun peserta lain.
