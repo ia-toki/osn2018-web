@@ -9,6 +9,7 @@ key: terbuka
 - OSN 2018 Informatika Terbuka merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN 2018 Informatika.
 - Soal-soal yang diberikan dalam OSN 2018 Informatika Terbuka sama dengan OSN 2018 Informatika.
 - OSN 2018 Informatika Terbuka dilaksanakan secara *online* pada [TLX](https://tlx.toki.id).
+- Apabila ada pertanyaan, silakan hubungi [scientific@toki.or.id](mailto:scientific@toki.or.id).
 
 <br>
 
@@ -24,14 +25,15 @@ key: terbuka
 - Masing-masing kontes terdiri atas 3 (tiga) soal dan dikerjakan
   dalam 5 (lima) jam.
 - Kontes dibuka dalam rentang waktu sebagai berikut.
-  * **Hari 0**: 2 Juli 2018 15:30 WIB - 3 Juli 2018 01:00 WIB
+  * **Hari 0**: 2 Juli 2018 15:35 WIB - 3 Juli 2018 06:05 WIB
     (sesi latihan, tidak mempengaruhi
       nilai akhir.)
-  * **Hari 1**: 3 Juli 2018 09:30 WIB - 4 Juli 2018 01:00 WIB
-  * **Hari 2**: 4 Juli 2018 09:30 WIB - 5 Juli 2018 01:00 WIB
+  * **Hari 1**: 3 Juli 2018 09:35 WIB - 4 Juli 2018 06:05 WIB
+  * **Hari 2**: 4 Juli 2018 09:35 WIB - 5 Juli 2018 06:05 WIB
 
 - Ketiga kontes di atas sudah tersedia pada sistem [TLX](https://tlx.toki.id). Silakan untuk mendaftarkan diri (*register*) pada ketiga kontes tersebut.
 - Peserta dapat menentukan sendiri kapan waktu memulai kontes, dalam rentang waktu tersebut di atas, dengan cara menekan tombol *timer* pada sistem kontes.
+- Jika peserta memulai kontes kurang dari 5 jam dari waktu berakhirnya kontes, peserta tidak akan mendapatkan tambahan waktu.
 - Tidak ada sistem klarifikasi dalam kontes, namun setiap pengumuman penting pada kontes asli akan diumumkan kembali pada kontes terbuka.
 
 <br>
