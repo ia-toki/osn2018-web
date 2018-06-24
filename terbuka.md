@@ -1,13 +1,13 @@
 ---
 layout: single-page-md
-title: DRAFT OSN Informatika 2018 Terbuka
+title: OSN Informatika 2018 Terbuka
 key: terbuka
 ---
 
 ### Pendahuluan
 
 - OSN Informatika 2018 Terbuka merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN Informatika 2018.
-- Soal-soal yang diberikan dalam OSN Informatika 2018 Terbuka sama dengan OSN 2018 Informatika.
+- Soal-soal yang diberikan dalam OSN Informatika 2018 Terbuka sama dengan OSN Informatika 2018.
 - OSN Informatika 2018 Terbuka dilaksanakan secara *online* pada [TLX](https://tlx.toki.id).
 - Apabila ada pertanyaan, silakan hubungi [scientific@toki.or.id](mailto:scientific@toki.or.id).
 
@@ -21,9 +21,7 @@ key: terbuka
 
 ### Jadwal dan Teknis Kontes
 
-- Kontes dilaksanakan 2 (dua) kali.
-- Masing-masing kontes terdiri atas 3 (tiga) soal dan dikerjakan
-  dalam 5 (lima) jam.
+- Secara umum, teknis sesuai dengan yang tercantum pada halaman [Peraturan Kompetisi](peraturan.html).
 - Kontes dibuka dalam rentang waktu sebagai berikut.
   * **Hari 0**: 2 Juli 2018 15:35 WIB - 3 Juli 2018 06:05 WIB
     (sesi latihan, tidak mempengaruhi
