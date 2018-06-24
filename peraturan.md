@@ -1,12 +1,12 @@
 ---
 layout: single-page-md
-title: Peraturan Kompetisi OSN 2018 Informatika
+title: Peraturan Kompetisi OSN Informatika 2018
 key: rules
 ---
 
 ### A. Teknis Umum
 
-1. OSN 2018 Informatika terdiri atas **1 hari uji coba** dan **2 hari kompetisi**.
+1. OSN Informatika 2018 terdiri atas **1 hari uji coba** dan **2 hari kompetisi**.
 1. Hasil pada hari uji coba **tidak** termasuk dalam penilaian.
 1. Pada setiap hari kompetisi, terdapat **3 buah soal** yang diujikan selama **5 jam**.
 1. Setiap peserta mendapatkan jatah sebanyak **50 kali pengumpulan** untuk setiap soal.
@@ -57,7 +57,7 @@ key: rules
 1. Pada penilaian kreatif:
    1. Penilaian akan diberikan relatif terhadap hasil yang diperoleh solusi juri.
    1. Rumus penilaian bervariasi untuk setiap soal, dan akan dinyatakan secara eksplisit pada soal.
-   
+
    1. Contoh soal:
       - *Batch*: [Membaca, OSN 2012](https://training.ia-toki.org/problemsets/45/problems/224/).
       - *Interactive*: [Cat Rumah, OSN 2014](https://training.ia-toki.org/problemsets/39/problems/202/).

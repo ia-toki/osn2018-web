@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Silabus Materi OSN 2018 Informatika
+title: Silabus Materi OSN Informatika 2018
 key: syllabus
 ---
 

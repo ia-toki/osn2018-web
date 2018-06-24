@@ -1,21 +1,21 @@
 ---
 layout: single-page-md
-title: DRAFT OSN 2018 Informatika Terbuka
+title: DRAFT OSN Informatika 2018 Terbuka
 key: terbuka
 ---
 
 ### Pendahuluan
 
-- OSN 2018 Informatika Terbuka merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN 2018 Informatika.
-- Soal-soal yang diberikan dalam OSN 2018 Informatika Terbuka sama dengan OSN 2018 Informatika.
-- OSN 2018 Informatika Terbuka dilaksanakan secara *online* pada [TLX](https://tlx.toki.id).
+- OSN Informatika 2018 Terbuka merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN Informatika 2018.
+- Soal-soal yang diberikan dalam OSN Informatika 2018 Terbuka sama dengan OSN 2018 Informatika.
+- OSN Informatika 2018 Terbuka dilaksanakan secara *online* pada [TLX](https://tlx.toki.id).
 - Apabila ada pertanyaan, silakan hubungi [scientific@toki.or.id](mailto:scientific@toki.or.id).
 
 <br>
 
 ### Materi Uji
 
-- Berhubung soal-soalnya sama dengan OSN 2018 Informatika, materi mengacu pada halaman [Silabus Materi](silabus.html).
+- Berhubung soal-soalnya sama dengan OSN Informatika 2018, materi mengacu pada halaman [Silabus Materi](silabus.html).
 
 <br>
 

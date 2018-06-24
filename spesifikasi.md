@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Spesifikasi Teknis OSN 2018 Informatika
+title: Spesifikasi Teknis OSN Informatika 2018
 key: spec
 ---
 
@@ -8,19 +8,19 @@ Berikut ini spesifikasi komputer setiap peserta.
 
 **Komputer**
    - Intel i3-2100 @ 3.10 GHz
-   - 2GB RAM 
+   - 2GB RAM
 
 **Sistem Operasi**
-   - Ubuntu 16.04 
+   - Ubuntu 16.04
 
 **Browser**
    - Google Chrome
-   
+
 **Aplikasi**
    - Gedit
    - Geany
    - Free Pascal IDE
-   
+
 **Kompilator**
    - gcc 4.8
    - g++ 4.8
