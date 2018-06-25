@@ -1,14 +1,14 @@
 ---
 layout: single-page-md
-title: OSN Informatika 2018 Terbuka
+title: TOKI OSN Open Contest 2018 (Bahasa Indonesia)
 key: terbuka
 ---
 
 ### Pendahuluan
 
-- OSN Informatika 2018 Terbuka merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN Informatika 2018.
-- Soal-soal yang diberikan dalam OSN Informatika 2018 Terbuka sama dengan OSN Informatika 2018.
-- OSN Informatika 2018 Terbuka dilaksanakan secara *online* pada [TLX](https://tlx.toki.id).
+- TOKI OSN Open Contest 2018 merupakan kompetisi terbuka bagi siapapun untuk mengerjakan soal-soal dan merasakan berkompetisi layaknya OSN Informatika 2018.
+- Soal-soal yang diberikan dalam TOKI OSN Open Contest 2018 sama dengan OSN Informatika 2018.
+- TOKI OSN Open Contest 2018 dilaksanakan secara *online* pada [TLX](https://tlx.toki.id/competition).
 - Apabila ada pertanyaan, silakan hubungi [scientific@toki.or.id](mailto:scientific@toki.or.id).
 
 <br>
@@ -29,7 +29,8 @@ key: terbuka
   * **Hari 1**: 3 Juli 2018 09:35 WIB - 4 Juli 2018 06:05 WIB
   * **Hari 2**: 4 Juli 2018 09:35 WIB - 5 Juli 2018 06:05 WIB
 
-- Ketiga kontes di atas sudah tersedia pada sistem [TLX](https://tlx.toki.id). Silakan untuk mendaftarkan diri (*register*) pada ketiga kontes tersebut.
+- Peserta dapat mengerjakan dalam **selang waktu 5 jam yang mana saja** setiap hari kompetisi di dalam rentang waktu yang ditentukan.
+- Ketiga kontes di atas sudah tersedia pada sistem [kompetisi TLX](https://tlx.toki.id/competition). Silakan untuk mendaftarkan diri (*register*) pada ketiga kontes tersebut.
 - Peserta dapat menentukan sendiri kapan waktu memulai kontes, dalam rentang waktu tersebut di atas, dengan cara menekan tombol *timer* pada sistem kontes.
 - Jika peserta memulai kontes kurang dari 5 jam dari waktu berakhirnya kontes, peserta tidak akan mendapatkan tambahan waktu.
 - Tidak ada sistem klarifikasi dalam kontes, namun setiap pengumuman penting pada kontes asli akan diumumkan kembali pada kontes terbuka.
