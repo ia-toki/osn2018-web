@@ -9,7 +9,7 @@ key: open
 - **TOKI OSN Open Contest 2018** is an open competition mirroring the National Science Olympiad in Informatics 2018 in Indonesia (**OSN Informatika 2018** in Bahasa Indonesia).
 - OSN Informatika is a national olympiad in informatics for high school students. It is the one of the stages required for Indonesian students to represent Indonesia in IOI (International Olympiad in Informatics)
 - The problemset is the same as the problemset in OSN Informatika 2018, and will be given in Bahasa Indonesia and English.
-- The contest will be held on [TLX Online Judge](https://tlx.toki.id/competition) (you may need to register for a TLX account if you do not have one already).
+- The contest will be held on [TLX (TOKI Online Judge)](https://tlx.toki.id/competition) (you may need to register for a TLX account if you do not have one already).
 - If you have any questions please contact [scientific@toki.or.id](mailto:scientific@toki.or.id).
 
 <br>
@@ -32,7 +32,7 @@ key: open
   * **Day 2**: [4 July 2018 02:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+National+Open+Contest+2018+Day+2&iso=20180704T0935&p1=575&ah=20&am=30)
 
 - Each contestant can select **any 5-hour window** within the time range to do the contest for each competition day.
-- All three contests are now available on [TLX Online Judge](https://tlx.toki.id/competition). Please register in those contests.
+- All three contests are now available on [TLX](https://tlx.toki.id/competition). Please register in those contests.
 - Each contestant may start the contest any time within the time range, by clicking the timer button.
 - There will be no additional time given if a contestant starts the contest in less than 5 hours before the contest ends.
 - The open contest doesn't support clarifications, but all important announcements from the original contest will be broadcast as well.
