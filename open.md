@@ -27,9 +27,9 @@ key: open
 ### Schedule and Technical Details
 
 - The contests will be held at the following time ranges:
-  * **Day 0**: [2 July 2018 08:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+National+Open+Contest+2018+Day+0&iso=20180702T1535&p1=575&ah=14&am=30) (trial session)
-  * **Day 1**: [3 July 2018 02:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+National+Open+Contest+2018+Day+1&iso=20180703T0935&p1=575&ah=20&am=30)
-  * **Day 2**: [4 July 2018 02:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+National+Open+Contest+2018+Day+2&iso=20180704T0935&p1=575&ah=20&am=30)
+* **Day 0**: [2 July 2018 08:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+OSN+Open+Contest+2018+Day+0&iso=20180702T1535&p1=575&ah=14&am=30) (trial session)
+* **Day 1**: [3 July 2018 02:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+OSN+Open+Contest+2018+Day+1&iso=20180703T0935&p1=575&ah=20&am=30)
+* **Day 2**: [4 July 2018 02:35 - 23:05 UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TOKI+OSN+Open+Contest+2018+Day+2&iso=20180704T0935&p1=575&ah=20&am=30)
 
 - Each contestant can select **any 5-hour window** within the time range to do the contest for each competition day.
 - All three contests are now available on [TLX](https://tlx.toki.id/competition). Please register in those contests.
