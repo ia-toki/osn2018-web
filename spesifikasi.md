@@ -8,13 +8,13 @@ Berikut ini spesifikasi komputer setiap peserta.
 
 **Komputer**
    - Intel i3-2100 @ 3.10 GHz
-   - 2GB RAM
+   - 2 GB RAM
 
 **Sistem Operasi**
    - Ubuntu 16.04
 
 **Browser**
-   - Google Chrome
+   - Mozilla Firefox
 
 **Aplikasi**
    - Gedit
@@ -34,4 +34,6 @@ Berikut ini spesifikasi komputer setiap peserta.
 
 Berikut ini adalah spesifikasi sistem *grader* juri.
 
-- (menyusul)
+- Intel Xeon E3-1220 v6 @ 3.00 GHz
+- 32 GB RAM
+- Ubuntu 14.04
