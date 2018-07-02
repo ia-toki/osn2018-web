@@ -42,7 +42,7 @@ key: terbuka
 Peserta kontes terbuka terbagi atas 4 (empat) kategori:
 
 - **Alumni**, yaitu siapapun yang pernah mengikuti Pelatnas TOKI.
-- **Siswa**, yaitu seluruh pelajar berkewarganegaraan Indonesia yang statusnya masih siswa di Indonesia, dan tidak termasuk kategori Alumni.
+- **Siswa**, yaitu seluruh pelajar berkewarganegaraan Indonesia yang statusnya masih siswa di Indonesia, tidak menjadi peserta OSN komputer 2018, dan tidak termasuk kategori Alumni.
 - **Umum**, yaitu siapapun yang berkewarganegaraan Indonesia dan tidak termasuk semua kategori di atas.
 - **Internasional**, yaitu siapapun yang berkewarganegaraan asing.
 
