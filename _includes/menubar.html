@@ -2,7 +2,13 @@
   <div class="menubar__content">
     <div class="pt-tabs">
       <ul class="pt-tab-list" role="tablist">
-        <li class="pt-tab" role="tab" aria-selected="true">Home</li>
+        <li class="pt-tab" role="tab" aria-selected="{% if page.key != 'scoreboard' %}true{% else %}false{% endif %}">
+            <a href="/">Home</a>
+        </li>
+        <li class="pt-tab" role="tab" aria-selected="{% if page.key == 'scoreboard' %}true{% else %}false{% endif %}">
+          <a href="/scoreboard.html">Scoreboard</a>
+        </li>
+        
       </ul>
     </div>
   </div>
